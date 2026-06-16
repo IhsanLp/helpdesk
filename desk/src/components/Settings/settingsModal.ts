@@ -1,4 +1,4 @@
-import { computed, h, markRaw, ref } from "vue";
+import { computed, h, markRaw, ref, defineAsyncComponent } from "vue";
 import Agents from "./Agents.vue";
 import EmailConfig from "./EmailConfig.vue";
 import TeamsConfig from "./Teams/TeamsConfig.vue";
@@ -21,7 +21,7 @@ import {
   PhoneIcon,
 } from "@/components/icons";
 import ERPNextIntegrationSettings from "@/components/erpnext-integration/ERPNextIntegrationSettings.vue";
-import TelephonyPage from "./Telephony/TelephonyPage.vue";
+const TelephonyPage = defineAsyncComponent(() => import("./Telephony/TelephonyPage.vue"));
 import { EmailNotifications } from "./EmailNotifications";
 import { __ } from "@/translation";
 import SavedReplies from "./SavedReplies/SavedReplies.vue";
