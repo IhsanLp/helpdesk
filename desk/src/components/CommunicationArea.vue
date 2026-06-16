@@ -114,7 +114,7 @@ import { useScreenSize } from "@/composables/screen";
 import { useShortcut } from "@/composables/shortcuts";
 import { showCommentBox, showEmailBox } from "@/pages/ticket/modalStates";
 import { onClickOutside } from "@vueuse/core";
-import { ref, watch } from "vue";
+import { inject, ref, watch } from "vue";
 
 const emit = defineEmits(["update"]);
 const content = defineModel("content");
