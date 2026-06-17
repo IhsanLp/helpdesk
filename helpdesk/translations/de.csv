@@ -55,7 +55,7 @@ Bulk Operation Successful,Massenvorgang erfolgreich
 No Data Found,Keine Daten gefunden
 Confirm Changes,Änderungen bestätigen
 This view is public. Changes made will be visible to everyone.,Diese Ansicht ist öffentlich. Vorgenommene Änderungen sind für alle sichtbar.
-Save,speichern
+Save,Speichern
 Cancel,Abbrechen
 List,Liste
 has reached out,hat sich gemeldet
@@ -688,7 +688,7 @@ Category,Kategorie
 Article,Artikel
 Add New Article,Neuen Artikel hinzufügen
 Edit Title,Titel bearbeiten
-Merge,zusammenfassen
+Merge,Zusammenfassen
 Share,Teilen
 Category '{0}' link copied to clipboard,Link der Kategorie „{0}“ in die Zwischenablage kopiert
 Move To,Verschieben nach
