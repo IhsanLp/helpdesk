@@ -1,0 +1,888 @@
+Copied to clipboard.,In die Zwischenablage kopiert.
+Now,Jetzt
+in {0} m,in {0} Min.
+in {0} h,in {0} Std.
+Tomorrow,Morgen
+in {0} d,in {0} T
+in {0} w,in {0} Wo.
+in {0} M,in {0} M
+in {0} y,in {0} J
+{0} m,{0} Min.
+{0} h,{0} Std.
+{0} d,{0} T
+{0} w,{0} Wo.
+{0} M,{0} M
+{0} y,{0} J
+Just now,Gerade eben
+In 1 minute,In 1 Minute
+In {0} minutes,In {0} Minuten
+In 1 hour,In 1 Stunde
+In {0} hours,In {0} Stunden
+In {0} days,In {0} Tagen
+In {0} weeks,In {0} Wochen
+In {0} months,In {0} Monaten
+In 1 year,In 1 Jahr
+In {0} years,In {0} Jahren
+1 minute ago,vor 1 Minute
+{0} minutes ago,vor {0} Minuten
+1 hour ago,vor 1 Stunde
+{0} hours ago,vor {0} Stunden
+Yesterday,Gestern
+{0} days ago,vor {0} Tagen
+1 week ago,vor 1 Woche
+{0} weeks ago,vor {0} Wochen
+1 month ago,vor 1 Monat
+{0} months ago,vor {0} Monaten
+1 year ago,vor 1 Jahr
+{0} years ago,vor {0} Jahren
+You are now online.,Sie sind jetzt online.
+You are now offline.,Sie sind jetzt offline.
+Ticket updated successfully.,Ticket erfolgreich aktualisiert.
+Reply,Antworten
+Reply All,Allen antworten
+ commented, hat kommentiert
+Comment deleted successfully.,Kommentar erfolgreich gelöscht.
+Comment cannot be empty.,Kommentar darf nicht leer sein.
+Comment updated successfully.,Kommentar erfolgreich aktualisiert.
+Reset,Zurücksetzen
+Save Changes,Änderungen speichern
+Delete,Löschen
+Are you sure you want to delete {0} item(s)?,Möchten Sie {0} Element(e) wirklich löschen?
+Bulk Operation Failed,Massenvorgang fehlgeschlagen
+Bulk Operation Successful,Massenvorgang erfolgreich
+{0} item(s) deleted successfully,{0} Element(e) erfolgreich gelöscht
+{0} item(s) queued for deletion,{0} Element(e) zur Löschung eingereiht
+No Data Found,Keine Daten gefunden
+Confirm Changes,Änderungen bestätigen
+This view is public. Changes made will be visible to everyone.,Diese Ansicht ist öffentlich. Vorgenommene Änderungen sind für alle sichtbar.
+Save,speichern
+Cancel,Abbrechen
+List,Liste
+has reached out,hat sich gemeldet
+has made a call,hat einen Anruf getätigt
+Inbound Call,Eingehender Anruf
+Outbound Call,Ausgehender Anruf
+Listen,Anhören
+Saved Replies,Gespeicherte Antworten
+New,Neu
+Search,Suchen
+No saved replies found,Keine gespeicherten Antworten gefunden
+All,Alle
+Personal,Persönlich
+My Team,Mein Team
+Global,Global
+From,Von
+To,Zu
+Cc,Cc
+Bcc,Bcc
+Cc:,Cc:
+Bcc:,Bcc:
+Unsaved,Nicht gespeichert
+Was this article Helpful?,War dieser Artikel hilfreich?
+"If your issue isn't resolved, raise a support ticket","Wenn Ihr Problem nicht gelöst ist, erstellen Sie ein Support-Ticket"
+Feedback submitted successfully.,Feedback erfolgreich übermittelt.
+No categories available,Keine Kategorien verfügbar
+There are no categories published at the moment.,Derzeit sind keine Kategorien veröffentlicht.
+Email Accounts,E-Mail-Konten
+Manage your email accounts and configure incoming and outgoing settings.,Verwalten Sie Ihre E-Mail-Konten und konfigurieren Sie die Einstellungen für ein- und ausgehende E-Mails.
+Email account name,Name des E-Mail-Kontos
+No email account found,Kein E-Mail-Konto gefunden
+Add one to get started.,"Fügen Sie eines hinzu, um zu beginnen."
+Agents,Agenten
+"Add, manage agents and assign roles to them.","Fügen Sie Agents hinzu, verwalten Sie sie und weisen Sie ihnen Rollen zu."
+Agent name,Agent-Name
+Inactive,Inaktiv
+Load More,Mehr laden
+Edit Email,E-Mail bearbeiten
+Edit your email account,Bearbeiten Sie Ihr E-Mail-Konto
+Open in Desk,In Desk öffnen
+Edit Domain,Domain bearbeiten
+Back,Zurück
+Update Account,Konto aktualisieren
+Pull Emails,E-Mails abrufen
+"To know more about setting up email accounts, click","Um mehr über das Einrichten von E-Mail-Konten zu erfahren, klicken Sie"
+No changes made,Keine Änderungen vorgenommen
+"Pulling emails, this may take a few minutes.","E-Mails werden abgerufen, dies kann einige Minuten dauern."
+Emails pulled successfully,E-Mails erfolgreich abgerufen
+Failed to pull emails,E-Mails konnten nicht abgerufen werden
+Email account updated successfully,E-Mail-Konto erfolgreich aktualisiert
+"Failed to update email account, Invalid credentials","E-Mail-Konto konnte nicht aktualisiert werden, ungültige Anmeldedaten"
+Invite Agents,Agents einladen
+"Easily invite new agents, managers, or admins.","Laden Sie ganz einfach neue Agents, Manager oder Admins ein."
+Invite by email,Per E-Mail einladen
+Comma separated emails to invite.,Durch Komma getrennte E-Mails zum Einladen.
+Role,Rolle
+Send Invites,Einladungen senden
+Pending Invites,Ausstehende Einladungen
+Cancel Invitation,Einladung abbrechen
+"Can work on tickets, create custom views and manage private views.","Kann an Tickets arbeiten, benutzerdefinierte Ansichten erstellen und private Ansichten verwalten."
+"Can invite new agents, manage tickets, create custom views and manage public views.","Kann neue Agents einladen, Tickets verwalten, benutzerdefinierte Ansichten erstellen und öffentliche Ansichten verwalten."
+Can manage all aspects of Helpdesk.,Kann alle Aspekte des Helpdesk verwalten.
+Please enter at least one valid email to send an invite.,"Bitte geben Sie mindestens eine gültige E-Mail-Adresse ein, um eine Einladung zu senden."
+Default Sending and Inbox,Standard-Versand und Posteingang
+Default Inbox,Standard-Posteingang
+Default Sending,Standard-Versand
+Inbox,Posteingang
+Account name,Kontoname
+Support / Sales,Support / Vertrieb
+Email ID,E-Mail-ID
+johndoe@example.com,johndoe@example.com
+Enable Incoming,Eingehend aktivieren
+"If enabled, tickets can be created from the incoming emails on this account.","Wenn aktiviert, können aus den eingehenden E-Mails dieses Kontos Tickets erstellt werden."
+Enable Outgoing,Ausgehend aktivieren
+"If enabled, outgoing emails can be sent from this account.","Wenn aktiviert, können ausgehende E-Mails von diesem Konto gesendet werden."
+Default Incoming,Standard-Eingehend
+"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Wenn aktiviert, werden alle Antworten an Ihr Unternehmen (z. B. replies@yourcompany.com) an dieses Konto gesendet. Hinweis: Nur ein Konto kann als Standard für eingehende E-Mails festgelegt werden."
+Default Outgoing,Standard-Ausgehend
+"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Wenn aktiviert, werden alle ausgehenden E-Mails von diesem Konto gesendet. Hinweis: Nur ein Konto kann als Standard für ausgehende E-Mails festgelegt werden."
+Password,Passwort
+Frappe Mail site,Frappe Mail Site
+API Key,API-Schlüssel
+API Secret,API Secret
+Email Domain,E-Mail-Domain
+example.com,example.com
+Incoming Server (IMAP/POP),Eingehender Server (IMAP/POP)
+imap.example.com,imap.example.com
+Incoming Port,Eingehender Port
+Use SSL for Incoming,SSL für eingehende Verbindungen verwenden
+Use TLS for Incoming,TLS für eingehende Verbindungen verwenden
+Outgoing Server (SMTP),Ausgehender Server (SMTP)
+Outgoing Port,Ausgehender Port
+Use SSL for Outgoing,SSL für ausgehende Verbindungen verwenden
+Use TLS for Outgoing,TLS für ausgehende Verbindungen verwenden
+Setting up GMail requires you to enable two factor authentication\n		  and app specific passwords. Read more,Für die Einrichtung von GMail müssen Sie die Zwei-Faktor-Authentifizierung\n		  und app-spezifische Passwörter aktivieren. Mehr erfahren
+Setting up Outlook requires you to enable two factor authentication\n		  and app specific passwords. Read more,Für die Einrichtung von Outlook müssen Sie die Zwei-Faktor-Authentifizierung\n		  und app-spezifische Passwörter aktivieren. Mehr erfahren
+Setting up Sendgrid requires you to enable two factor authentication\n		  and app specific passwords. Read more,Für die Einrichtung von Sendgrid müssen Sie die Zwei-Faktor-Authentifizierung\n		  und app-spezifische Passwörter aktivieren. Mehr erfahren
+Setting up SparkPost requires you to enable two factor authentication\n		  and app specific passwords. Read more,Für die Einrichtung von SparkPost müssen Sie die Zwei-Faktor-Authentifizierung\n		  und app-spezifische Passwörter aktivieren. Mehr erfahren
+Setting up Yahoo requires you to enable two factor authentication\n		  and app specific passwords. Read more,Für die Einrichtung von Yahoo müssen Sie die Zwei-Faktor-Authentifizierung\n		  und app-spezifische Passwörter aktivieren. Mehr erfahren
+Setting up Yandex requires you to enable two factor authentication\n		  and app specific passwords. Read more,Für die Einrichtung von Yandex müssen Sie die Zwei-Faktor-Authentifizierung\n		  und app-spezifische Passwörter aktivieren. Mehr erfahren
+Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more,Für die Einrichtung von Frappe Mail benötigen Sie einen API-Key und ein API-Secret Ihres E-Mail-Kontos. Mehr erfahren
+Use your own IMAP/SMTP settings. Open in Desk,Verwenden Sie Ihre eigenen IMAP/SMTP-Einstellungen. In Desk öffnen
+Account name is required,Kontoname ist erforderlich
+Email ID is required,E-Mail-ID ist erforderlich
+Invalid email ID,Ungültige E-Mail-ID
+API Key is required,API Key ist erforderlich
+API Secret is required,API Secret ist erforderlich
+Email Domain or manual server settings are required,E-Mail-Domain oder manuelle Servereinstellungen sind erforderlich
+Password is required,Passwort ist erforderlich
+Account,Konto
+Unsaved changes,Nicht gespeicherte Änderungen
+Are you sure you want to change tabs? Unsaved changes will be lost.,Möchten Sie wirklich die Tabs wechseln? Nicht gespeicherte Änderungen gehen verloren.
+Setup Email,E-Mail einrichten
+Choose the email service provider you want to configure.,"Wählen Sie den E-Mail-Dienstanbieter aus, den Sie konfigurieren möchten."
+Create,Erstellen
+Email account created,E-Mail-Konto erstellt
+"Failed to create email account, Invalid credentials","E-Mail-Konto konnte nicht erstellt werden, ungültige Anmeldedaten"
+My settings,Meine Einstellungen
+Profile,Profil
+Email Settings,E-Mail-Einstellungen
+Email Notifications,E-Mail-Benachrichtigungen
+App Settings,App-Einstellungen
+General,Allgemein
+Teams,Teams
+SLA Policies,SLA-Richtlinien
+Business Holidays,Betriebsferien
+Assignment Rules,Zuweisungsregeln
+Field Dependencies,Feldabhängigkeiten
+Integrations,Integrationen
+Telephony,Telefonie
+ERPNext,ERPNext
+New team,Neues Team
+Title,Bezeichnung
+Product experts,Produktexperten
+Title is required,Titel ist erforderlich
+Team created,Team erstellt
+Assignee Rules,Zuweisungsregeln
+Define who receives the tickets and how they’re distributed among agents.,"Legen Sie fest, wer die Tickets erhält und wie sie unter den Agents verteilt werden."
+Ticket Routing,Ticket-Routing
+Choose how tickets are distributed among selected assignees.,"Wählen Sie, wie Tickets unter den ausgewählten Zuständigen verteilt werden."
+Assignees,Zugewiesene
+Choose who receives the tickets.,"Wählen Sie aus, wer die Tickets erhält."
+Last user assigned by this rule,Zuletzt durch diese Regel zugewiesener Benutzer
+Last,Letzte
+Assignment Rules automatically route tickets to the right team members based on predefined conditions.,Zuweisungsregeln leiten Tickets anhand vordefinierter Bedingungen automatisch an die richtigen Team-Mitglieder weiter.
+Duplicate Assignment Rule,Zuweisungsregel duplizieren
+New Assignment Rule Name,Name der neuen Zuweisungsregel
+Close,Schließen
+Duplicate,Duplizieren
+Assignment rule deleted successfully.,Zuweisungsregel erfolgreich gelöscht.
+Assignment rule duplicated successfully.,Zuweisungsregel erfolgreich dupliziert.
+Cannot enable rule without adding users in it,"Die Regel kann nicht aktiviert werden, ohne Benutzer hinzuzufügen"
+Assignment rule {0} updated successfully.,Zuweisungsregel {0} erfolgreich aktualisiert.
+New Assignment Rule,Neue Zuweisungsregel
+Enabled,Aktiviert
+Name,Name
+Priority,Priorität
+Description,Beschreibung
+Assignment Condition,Zuweisungsbedingung
+Choose which tickets are affected by this assignment rule.,"Wählen Sie aus, welche Tickets von dieser Zuweisungsregel betroffen sind."
+Learn about conditions,Mehr über Bedingungen erfahren
+Old Condition,Alte Bedingung
+Unassignment Condition,Bedingung zum Aufheben der Zuweisung
+Choose which tickets are affected by this un-assignment rule.,"Wählen Sie aus, welche Tickets von dieser Aufhebungsregel betroffen sind."
+Assignment Schedule,Zuweisungsplan
+Choose the days of the week when this rule should be active.,"Wählen Sie die Wochentage aus, an denen diese Regel aktiv sein soll."
+Are you sure you want to go back? Unsaved changes will be lost.,Möchten Sie wirklich zurückgehen? Nicht gespeicherte Änderungen gehen verloren.
+"Invalid fields, check if all are filled in and values are correct.","Ungültige Felder, prüfen Sie, ob alle ausgefüllt und die Werte korrekt sind."
+Assignment rule created successfully.,Zuweisungsregel erfolgreich erstellt.
+Some error occurred while updating assignment rule,Beim Aktualisieren der Zuweisungsregel ist ein Fehler aufgetreten
+Some error occurred while renaming assignment rule,Beim Umbenennen der Zuweisungsregel ist ein Fehler aufgetreten
+Assignment rule updated successfully.,Zuweisungsregel erfolgreich aktualisiert.
+No assignment rule found,Keine Zuweisungsregel gefunden
+Assignment rule,Zuweisungsregel
+Add a condition,Eine Bedingung hinzufügen
+Add condition,Bedingung hinzufügen
+Add condition group,Bedingungsgruppe hinzufügen
+Days,Tage
+Active,Aktiv
+Add Assignee,Zugewiesenen hinzufügen
+No results found,Keine Ergebnisse gefunden
+Invite agent,Agent einladen
+Are you sure you want to leave? Unsaved changes will be lost.,Möchten Sie die Seite wirklich verlassen? Nicht gespeicherte Änderungen gehen verloren.
+Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies,"Erstellen Sie Feldabhängigkeiten, um Optionen basierend auf Benutzerauswahlen dynamisch zu aktualisieren. Erfahren Sie mehr über Feldabhängigkeiten"
+here.,hier.
+Created by,Erstellt von
+Field dependency deleted successfully.,Feldabhängigkeit erfolgreich gelöscht.
+Field dependency updated successfully.,Feldabhängigkeit erfolgreich aktualisiert.
+Failed to update field dependency.,Feldabhängigkeit konnte nicht aktualisiert werden.
+New Field Dependency,Neue Feldabhängigkeit
+Field Dependency created successfully,Feldabhängigkeit erfolgreich erstellt
+Field Dependency updated successfully,Feldabhängigkeit erfolgreich aktualisiert
+Parent field,Übergeordnetes Feld
+Child field,Untergeordnetes Feld
+Manage general settings of your app.,Allgemeine Einstellungen Ihrer App verwalten.
+User Signup,Benutzerregistrierung
+Disable signup,Registrierung deaktivieren
+New users will have to be manually registered by system managers.,Neue Benutzer müssen manuell durch Systemverwalter registriert werden.
+Please select at least one restriction option for teams in the settings.,Bitte wählen Sie in den Einstellungen mindestens eine Einschränkungsoption für Teams aus.
+Settings updated,Einstellungen aktualisiert
+Uploading {0}%,Wird hochgeladen {0}%
+Change,Ändern
+Upload,Hochladen
+Remove,Entfernen
+Ticket Settings,Ticket-Einstellungen
+Make feedback mandatory,Feedback verpflichtend machen
+"The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.","Der Feedback-Dialog wird angezeigt, wenn ein Benutzer versucht, ein Ticket über das Kundenportal zu schließen."
+Enable comment reactions,Kommentar-Reaktionen aktivieren
+Allow users to react to comments with emojis.,"Benutzern erlauben, mit Emojis auf Kommentare zu reagieren."
+Restrict tickets by team,Tickets nach Team beschränken
+Restrict tickets to be viewed and managed by team members only.,"Tickets so beschränken, dass sie nur von Teammitgliedern angezeigt und verwaltet werden können."
+Do not restrict tickets without a team,Tickets ohne Team nicht einschränken
+Restrict agent assignment to selected team,Agent-Zuweisung auf ausgewähltes Team beschränken
+Disable global saved replies,Globale gespeicherte Antworten deaktivieren
+Agents will no longer be able to view and create saved replies with global scope.,Agents können gespeicherte Antworten mit globalem Geltungsbereich nicht mehr anzeigen und erstellen.
+Auto update status,Status automatisch aktualisieren
+The ticket status will automatically change whenever the agent respond to a ticket.,"Der Ticket-Status ändert sich automatisch, sobald der Agent auf ein Ticket antwortet."
+Allow anyone to create tickets,Jedem das Erstellen von Tickets erlauben
+Anyone will be able to create tickets without any permission. e.g. from webform.,"Jeder kann ohne Berechtigung Tickets erstellen, z. B. über ein Webformular."
+Default ticket type,Standard-Ticket-Typ
+Select what type all tickets get by default.,"Wählen Sie aus, welchen Typ alle Tickets standardmäßig erhalten."
+Automatically close stale tickets,Veraltete Tickets automatisch schließen
+Auto-close tickets that remain in a status for the specified number of days.,"Tickets automatisch schließen, die für die angegebene Anzahl von Tagen in einem Status verbleiben."
+Ticket status,Ticket-Status
+Auto-close after (Days),Automatisch schließen nach (Tage)
+The number of days must be 1 or more,Die Anzahl der Tage muss 1 oder mehr betragen
+Outside working hours notice,Hinweis außerhalb der Arbeitszeiten
+Display a customizable banner message when customers raise tickets outside your working hours.,"Zeigen Sie eine anpassbare Banner-Nachricht an, wenn Kunden außerhalb Ihrer Arbeitszeiten Tickets erstellen."
+Find out all of the variables that can be used in the content,"Finden Sie alle Variablen heraus, die im Inhalt verwendet werden können"
+here,hier
+This will reset the content to the default message.,Dadurch wird der Inhalt auf die Standardnachricht zurückgesetzt.
+Reset Content,Inhalt zurücksetzen
+Branding,Branding
+Brand name,Markenname
+Enter brand name,Markennamen eingeben
+Logo,Logo
+Appears in the left sidebar. Recommended size is minimum 32x32 px in PNG or SVG.,Erscheint in der linken Seitenleiste. Empfohlene Größe ist mindestens 32x32 px in PNG oder SVG.
+Favicon,Favicon
+Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO.,Erscheint neben dem Titel in Ihrem Browser-Tab. Empfohlene Größe ist mindestens 32x32 px in PNG oder ICO.
+Image removed successfully.,Bild erfolgreich entfernt.
+Image updated successfully.,Bild erfolgreich aktualisiert.
+Remove Logo,Logo entfernen
+Are you sure you want to remove the logo?,Möchten Sie das Logo wirklich entfernen?
+Workflow & Knowledge Base Settings,Workflow- & Wissensdatenbank-Einstellungen
+Prefer knowledge base,Wissensdatenbank bevorzugen
+Guide users to articles before tickets.,"Leiten Sie Benutzer zu Artikeln, bevor Tickets erstellt werden."
+Skip email workflow,E-Mail-Workflow überspringen
+"Disables all email notifications for the ticket - including creation, updates, and alerts.","Deaktiviert alle E-Mail-Benachrichtigungen für das Ticket – einschließlich Erstellung, Aktualisierungen und Warnungen."
+Manage your profile information.,Verwalten Sie Ihre Profilinformationen.
+Account Info & Security,Kontoinformationen & Sicherheit
+Emails & Signature,E-Mails & Signatur
+Manage your account emails and email signature for communication.,Verwalten Sie Ihre Konto-E-Mails und E-Mail-Signatur für die Kommunikation.
+Configure,Konfigurieren
+Change your account password for security.,Ändern Sie aus Sicherheitsgründen Ihr Konto-Passwort.
+Change Password,Passwort ändern
+Language,Sprache
+Change language of the application.,Sprache der Anwendung ändern.
+Timezone,Zeitzone
+Change timezone of the application.,Zeitzone der Anwendung ändern.
+Remove Photo,Foto entfernen
+Change Photo,Foto ändern
+Upload Photo,Foto hochladen
+Profile updated successfully.,Profil erfolgreich aktualisiert.
+Not Saved,Nicht gespeichert
+Update,Aktualisieren
+Signature,Signatur
+Manage your email signature.,Verwalten Sie Ihre E-Mail-Signatur.
+Write your email signature here.,Schreiben Sie hier Ihre E-Mail-Signatur.
+Emails,E-Mails
+Switch between outgoing email accounts when sending emails from your configured accounts.,Beim Senden von E-Mails zwischen ausgehenden E-Mail-Konten Ihrer konfigurierten Konten wechseln.
+Email Account,E-Mail-Konto
+Email,E-Mail
+Add Email,E-Mail hinzufügen
+Email settings updated successfully.,E-Mail-Einstellungen erfolgreich aktualisiert.
+New Password,Neues Passwort
+Confirm Password,Passwort bestätigen
+Passwords match,Die Passwörter stimmen überein
+Password updated successfully.,Passwort erfolgreich aktualisiert.
+Password must be at least 8 characters,Das Passwort muss mindestens 8 Zeichen lang sein
+"Password must contain lowercase, uppercase, number, and symbol","Das Passwort muss Kleinbuchstaben, Großbuchstaben, eine Zahl und ein Symbol enthalten"
+Passwords do not match,Die Passwörter stimmen nicht überein
+Create and manage teams and assign agents to specific teams.,Erstellen und verwalten Sie Teams und weisen Sie Agents bestimmten Teams zu.
+Team name,Team-Name
+Disabled,Deaktiviert
+Rename,Umbenennen
+Team deleted successfully.,Team erfolgreich gelöscht.
+Product Experts,Produktexperten
+New title is required,Neuer Titel ist erforderlich
+New and old title cannot be same,Neuer und alter Titel dürfen nicht identisch sein
+Team renamed successfully.,Team erfolgreich umbenannt.
+Rename team,Team umbenennen
+Enter the new name for the team,Geben Sie den neuen Namen für das Team ein
+Members ({0}),Mitglieder ({0})
+No members found,Keine Mitglieder gefunden
+Add members to this team to get started.,"Fügen Sie Mitglieder zu diesem Team hinzu, um zu beginnen."
+Team enabled successfully.,Team erfolgreich aktiviert.
+Team disabled successfully.,Team erfolgreich deaktiviert.
+View Assignment rule,Zuweisungsregel anzeigen
+Access only this team's tickets,Nur auf die Tickets dieses Teams zugreifen
+Access all team tickets,Auf alle Team-Tickets zugreifen
+Team can now access all tickets.,Das Team kann jetzt auf alle Tickets zugreifen.
+Team will only see their own tickets.,Das Team sieht nur seine eigenen Tickets.
+New Team,Neues Team
+Team Name,Team-Name
+Members,Mitglieder
+Please fill all required fields,Bitte füllen Sie alle erforderlichen Felder aus
+Team created successfully.,Team erfolgreich erstellt.
+Settings updated successfully.,Einstellungen erfolgreich aktualisiert.
+On ticket status,Bei Ticket-Status
+Customize your email notification preferences to stay informed about important updates and activities.,"Passen Sie Ihre E-Mail-Benachrichtigungseinstellungen an, um über wichtige Aktualisierungen und Aktivitäten informiert zu bleiben."
+customize {0},{0} anpassen
+Share feedback,Feedback teilen
+Sent to the user who has raised the ticket after the ticket is closed or resolved.,"Wird an den Benutzer gesendet, der das Ticket erstellt hat, nachdem das Ticket geschlossen oder gelöst wurde."
+Acknowledgement,Bestätigung
+Sent to the user right after creating an email ticket.,Wird unmittelbar nach dem Erstellen eines E-Mail-Tickets an den Benutzer gesendet.
+Reply from contact,Antwort vom Kontakt
+Sent to all of the agents assigned to the ticket whenever a contact has replied.,"Wird an alle dem Ticket zugewiesenen Agents gesendet, sobald ein Kontakt geantwortet hat."
+Reply from agent,Antwort vom Agent
+Sent to all of the recipients associated with the ticket whenever an agent has replied.,"Wird an alle dem Ticket zugeordneten Empfänger gesendet, sobald ein Agent geantwortet hat."
+back to email event list,zurück zur E-Mail-Ereignisliste
+Email Content,E-Mail-Inhalt
+Reset content,Inhalt zurücksetzen
+Are you sure you want to reset the content? Current content will be overridden.,Möchten Sie den Inhalt wirklich zurücksetzen? Der aktuelle Inhalt wird überschrieben.
+No Holiday list found,Keine Feiertagsliste gefunden
+Schedule name,Planname
+"Set your team’s working days, hours, and holidays using a template or custom schedule.","Legen Sie die Arbeitstage, Arbeitszeiten und Feiertage Ihres Teams mithilfe einer Vorlage oder eines benutzerdefinierten Zeitplans fest."
+New Business Holiday,Neuer Betriebsfeiertag
+Valid From,Gültig ab
+Choose the duration of this holiday list.,Wählen Sie die Dauer dieser Feiertagsliste.
+From date,Von Datum
+To date,Bis-Datum
+Recurring Holidays,Wiederkehrende Feiertage
+Add recurring holidays such as weekends.,Fügen Sie wiederkehrende Feiertage wie Wochenenden hinzu.
+Holidays,Arbeitsfreie Tage
+Add holidays here to make sure they’re excluded from SLA calculations.,"Fügen Sie hier Feiertage hinzu, um sicherzustellen, dass sie von SLA-Berechnungen ausgeschlossen werden."
+Add Holiday,Feiertag hinzufügen
+Recurring holidays,Wiederkehrende Feiertage
+Holiday list created successfully.,Feiertagsliste erfolgreich erstellt.
+Some error occurred while updating holiday list,Beim Aktualisieren der Feiertagsliste ist ein Fehler aufgetreten
+Some error occurred while renaming holiday list,Beim Umbenennen der Feiertagsliste ist ein Fehler aufgetreten
+Holiday list updated successfully.,Feiertagsliste erfolgreich aktualisiert.
+Duplicate Holiday List,Feiertagsliste duplizieren
+New Holiday List Name,Name der neuen Feiertagsliste
+Holiday list duplicated successfully.,Feiertagsliste erfolgreich dupliziert.
+Holiday list deleted successfully.,Feiertagsliste erfolgreich gelöscht.
+Work Schedule and Holidays,Arbeitsplan und Feiertage
+"Set working days, hours, and holidays by selecting a predefined schedule or creating a new one.","Legen Sie Arbeitstage, Arbeitszeiten und Feiertage fest, indem Sie einen vordefinierten Zeitplan auswählen oder einen neuen erstellen."
+Create new business holiday,Neuen Geschäftsfeiertag erstellen
+No SLA found,Kein SLA gefunden
+Policy name,Richtlinienname
+Duplicate SLA Policy,SLA-Richtlinie duplizieren
+New SLA Policy Name,Name der neuen SLA-Richtlinie
+SLA policy duplicated successfully.,SLA-Richtlinie erfolgreich dupliziert.
+SLA policy deleted successfully.,SLA-Richtlinie erfolgreich gelöscht.
+SLA set as default cannot be disabled.,Als Standard festgelegte SLA kann nicht deaktiviert werden.
+SLA policy status updated successfully.,SLA-Richtlinienstatus erfolgreich aktualisiert.
+Service Level Agreements (SLAs),Service Level Agreements (SLAs)
+SLAs align your team and customers with defined timelines for a reliable experience. Learn more about SLA ,SLAs stimmen Ihr Team und Ihre Kunden mit definierten Zeitvorgaben für ein verlässliches Erlebnis ab. Erfahren Sie mehr über SLA 
+New SLA Policy,Neue SLA-Richtlinie
+Assignment Conditions,Zuweisungsbedingungen
+Choose which tickets are affected by this policy.,"Wählen Sie aus, welche Tickets von dieser Richtlinie betroffen sind."
+Set as default SLA,Als Standard-SLA festlegen
+Old Conditions,Alte Bedingungen
+"I understand, add conditions","Ich verstehe, Bedingungen hinzufügen"
+Choose how long this SLA policy will be active.,"Wählen Sie, wie lange diese SLA-Richtlinie aktiv sein soll."
+Response and Resolution,Antwort und Auflösung
+Add time targets around support milestones like first reply and resolution times.,Fügen Sie Zeitvorgaben für Support-Meilensteine wie Erste Antwort und Lösungszeiten hinzu.
+Status Details,Statusdetails
+"Set the default status assigned when a ticket is created, and the status to apply when a ticket is reopened. If not specified, the default status from HD Settings will be used.","Legen Sie den Standardstatus fest, der beim Erstellen eines Tickets zugewiesen wird, sowie den Status, der beim erneuten Öffnen eines Tickets angewendet wird. Wenn nicht angegeben, wird der Standardstatus aus den HD-Einstellungen verwendet."
+Confirm overwrite,Überschreiben bestätigen
+Your old conditions will be overwritten. Are you sure you want to save?,"Ihre alten Bedingungen werden überschrieben. Sind Sie sicher, dass Sie speichern möchten?"
+SLA policy created successfully.,SLA-Richtlinie erfolgreich erstellt.
+SLA policy updated successfully.,SLA-Richtlinie erfolgreich aktualisiert.
+SLA set as default cannot be disabled,Als Standard festgelegte SLA kann nicht deaktiviert werden
+Add a custom condition,Eine benutzerdefinierte Bedingung hinzufügen
+Please fix the errors in the form,Bitte beheben Sie die Fehler im Formular
+Workday updated successfully.,Arbeitstag erfolgreich aktualisiert.
+A workday with this name already exists,Ein Arbeitstag mit diesem Namen existiert bereits
+Workday added successfully.,Arbeitstag erfolgreich hinzugefügt.
+Manage pre-defined responses that can be used to respond to customer queries.,"Verwalten Sie vordefinierte Antworten, die zur Beantwortung von Kundenanfragen verwendet werden können."
+Owner,Besitzer
+Scope,Umfang
+Duplicate Saved reply,Gespeicherte Antwort duplizieren
+New Saved reply Name,Name der neuen gespeicherten Antwort
+Saved reply deleted successfully.,Gespeicherte Antwort erfolgreich gelöscht.
+Saved reply duplicated successfully.,Gespeicherte Antwort erfolgreich dupliziert.
+Team,Team
+New Saved Reply,Neue gespeicherte Antwort
+Preview,Vorschau
+Choose who can view and use this response.,"Wählen Sie aus, wer diese Antwort sehen und verwenden kann."
+Select teams,Teams auswählen
+Restrict visibility to these teams,Sichtbarkeit auf diese Teams beschränken
+Response,Antwort
+"Hello {{ contact }}, \n\nWe are sorry for the inconvenience, we will get back to you soon. \n\nRegards, \n{{ full_name }}","Hallo {{ contact }}, \n\nwir entschuldigen uns für die Unannehmlichkeiten und melden uns in Kürze bei Ihnen. \n\nMit freundlichen Grüßen, \n{{ full_name }}"
+Please fill all the required fields,Bitte füllen Sie alle erforderlichen Felder aus
+Saved reply saved successfully.,Gespeicherte Antwort erfolgreich gespeichert.
+Some error occurred while renaming saved reply,Beim Umbenennen der gespeicherten Antwort ist ein Fehler aufgetreten
+Saved reply updated successfully.,Gespeicherte Antwort erfolgreich aktualisiert.
+Response is required,Antwort ist erforderlich
+At least one team is required,Mindestens ein Team ist erforderlich
+First Name,Vorname
+Middle Name,Zweiter Vorname
+Last Name,Familienname
+Full Name,Vollständiger Name
+Username,Benutzername
+User Image,Benutzerbild
+Phone,Telefon
+Location,Ort
+Bio,Bio
+Mobile No,Mobilfunknummer
+Select ticket to preview,Ticket zur Vorschau auswählen
+Search ticket,Ticket suchen
+No tickets found to preview.,Keine Tickets zur Vorschau gefunden.
+Configure your Twilio settings for Helpdesk.,Konfigurieren Sie Ihre Twilio-Einstellungen für Helpdesk.
+Twilio,Twilio
+Record Calls,Anrufe aufzeichnen
+Refresh Apps,Apps aktualisieren
+Failed to load telephony agent,Telefonie-Agent konnte nicht geladen werden
+Please fill all required fields for Twilio,Bitte füllen Sie alle erforderlichen Felder für Twilio aus
+Twilio error: {0},Twilio-Fehler: {0}
+Failed to save Twilio settings,Twilio-Einstellungen konnten nicht gespeichert werden
+Telephony settings updated successfully.,Telefonie-Einstellungen erfolgreich aktualisiert.
+Configure your Exotel settings for Helpdesk.,Konfigurieren Sie Ihre Exotel-Einstellungen für Helpdesk.
+Exotel,Exotel
+Personal mobile no,Private Mobilnummer
+Please fill all required fields for Exotel,Bitte füllen Sie alle erforderlichen Felder für Exotel aus
+Exotel error: {0},Exotel-Fehler: {0}
+Failed to save Exotel settings,Exotel-Einstellungen konnten nicht gespeichert werden
+Configure your telephony settings.,Konfigurieren Sie Ihre Telefonie-Einstellungen.
+Default medium,Standard-Medium
+Default calling medium for logged in user,Standard-Anrufmedium für angemeldeten Benutzer
+Configure your Twilio telephony integration settings here,Konfigurieren Sie hier Ihre Twilio-Telefonie-Integrationseinstellungen
+Configure your Exotel telephony integration settings here,Konfigurieren Sie hier Ihre Exotel-Telefonie-Integrationseinstellungen
+Please configure your Twilio settings correctly,Bitte konfigurieren Sie Ihre Twilio-Einstellungen korrekt
+Please configure your Exotel settings correctly,Bitte konfigurieren Sie Ihre Exotel-Einstellungen korrekt
+Notifications,Benachrichtigungen
+Help,Hilfe
+Collapse,Einklappen
+Expand,Erweitern
+Toggle theme,Theme umschalten
+Call Logs,Anrufprotokolle
+All Views,Alle Ansichten
+Public Views,Öffentliche Ansichten
+Private Views,Private Ansichten
+Danger,Gefahr
+Log out,Abmelden
+Customer portal,Kundenportal
+Support,Support
+Docs,Docs
+Login to Frappe Cloud,Bei Frappe Cloud anmelden
+Shortcuts,Tastenkürzel
+Settings,Einstellungen
+Connect your support email,Verbinden Sie Ihre Support-E-Mail
+Invite agents,Agents einladen
+Setup SLA,SLA einrichten
+Create a ticket,Ticket erstellen
+Assign a ticket to an agent,Ein Ticket einem Agent zuweisen
+Reply on a ticket,Auf ein Ticket antworten
+Add a comment on a ticket,Einen Kommentar zu einem Ticket hinzufügen
+Create an article,Artikel erstellen
+Create & invite a contact,Kontakt erstellen & einladen
+Explore customer portal,Kundenportal erkunden
+Getting Started,Beginnen
+Masters,Stammdaten
+Ticket,Ticket
+Agent,Agent
+Contact,Kontakt
+Customer,Kunde
+Knowledge Base,Wissensdatenbank
+Service Level Agreement,Service Level Agreement
+Ticket Type,Ticket-Typ
+Ticket Priority,Ticket-Priorität
+Customizations,Anpassungen
+Please create a new ticket to proceed with the next step.,"Bitte erstellen Sie ein neues Ticket, um mit dem nächsten Schritt fortzufahren."
+Home,Startseite
+Dashboard,Dashboard
+Tickets,Tickets
+Customers,Kunden
+Contacts,Kontakte
+"Search tickets, emails, comments, or #234 to navigate to ticket","Suchen Sie nach Tickets, E-Mails, Kommentaren oder #234, um zu einem Ticket zu navigieren"
+Go to Ticket #{0},Zu Ticket #{0}
+Jump to,Springen zu
+"Search for ""{0}""","Suchen nach ""{0}"""
+Ticket Info,Ticket-Info
+Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone.,Möchten Sie dieses Ticket wirklich löschen? Dies ist eine unwiderrufliche Aktion und kann nicht rückgängig gemacht werden.
+Ticket deleted successfully.,Ticket erfolgreich gelöscht.
+Failed to delete ticket.,Ticket konnte nicht gelöscht werden.
+Merge Ticket,Ticket zusammenführen
+Default actions,Standard-Aktionen
+Bulk Reply,Massenantwort
+Write your reply...,Schreiben Sie Ihre Antwort...
+Discard,Verwerfen
+Send Reply,Antwort senden
+Send to {0} tickets,An {0} Tickets senden
+No tickets selected,Keine Tickets ausgewählt
+Bulk reply sent successfully to 1 ticket.,Massenantwort erfolgreich an 1 Ticket gesendet.
+Bulk reply sent successfully to {0} tickets.,Massenantwort erfolgreich an {0} Tickets gesendet.
+Go to previous ticket (Shift + <),Zum vorherigen Ticket (Shift + <)
+No previous ticket,Kein vorheriges Ticket
+Go to next ticket (Shift + >),Zum nächsten Ticket (Shift + >)
+No next ticket,Kein nächstes Ticket
+Rename (⌘ + ⏎),Umbenennen (⌘ + ⏎)
+Rename (Ctrl + ⏎),Umbenennen (Strg + ⏎)
+Assignee,Zugewiesener
+assignees,Zugewiesene
+No one,Niemand
+Assign yourself,Sich selbst zuweisen
+Search agents...,Agents suchen…
+Loading...,Laden ...
+No agents found,Keine Agents gefunden
+Assignee's updated successfully.,Zugewiesene erfolgreich aktualisiert.
+Failed to update Assignee's.,Zugewiesene konnten nicht aktualisiert werden.
+Assignees updated successfully.,Zugewiesene erfolgreich aktualisiert.
+Failed to update Assignees.,Zugewiesene konnten nicht aktualisiert werden.
+Keyboard Shortcuts,Tastenkürzel
+Open command palette,Befehlspalette öffnen
+Open settings,Einstellungen öffnen
+Show keyboard shortcuts,Tastenkürzel anzeigen
+Open help,Hilfe öffnen
+Ticket Management,Ticket-Verwaltung
+Change ticket type,Ticket-Typ ändern
+Change priority,Priorität ändern
+Change team,Team ändern
+Assign ticket,Ticket zuweisen
+Change status,Status ändern
+Copy ticket id,Ticket-ID kopieren
+Copy ticket URL,Ticket-URL kopieren
+Communication,Kommunikation
+Open reply box,Antwortfeld öffnen
+Open comment box,Kommentarfeld öffnen
+Navigation,Navigation
+Next ticket,Nächstes Ticket
+Previous ticket,Vorheriges Ticket
+Create New Contact,Neuen Kontakt erstellen
+Link to a customer record,Mit einem Kundendatensatz verknüpfen
+Email Id,E-Mail-ID
+Contact created successfully.,Kontakt erfolgreich erstellt.
+Email should not be empty,E-Mail darf nicht leer sein
+Enter a valid email,Geben Sie eine gültige E-Mail-Adresse ein
+Contact with email already exists,Kontakt mit dieser E-Mail existiert bereits
+First name should not be empty,Vorname darf nicht leer sein
+Enter a valid phone number,Geben Sie eine gültige Telefonnummer ein
+Customer created successfully.,Kunde erfolgreich erstellt.
+Sync customers between Helpdesk and ERPNext.,Kunden zwischen Helpdesk und ERPNext synchronisieren.
+Not installed,Nicht installiert
+Enable ERPNext Integration,ERPNext-Integration aktivieren
+Install the,Installieren Sie das
+ERPNext app,ERPNext-App
+to enable this integration.,um diese Integration zu aktivieren.
+Customers are in sync,Kunden sind synchronisiert
+New and updated customers sync automatically between Helpdesk and ERPNext.,Neue und aktualisierte Kunden werden automatisch zwischen Helpdesk und ERPNext synchronisiert.
+Sync your existing customers,Synchronisieren Sie Ihre bestehenden Kunden
+Run an initial sync to reconcile existing records. New ones update automatically.,"Führen Sie eine erste Synchronisierung durch, um bestehende Datensätze abzugleichen. Neue werden automatisch aktualisiert."
+Syncing…,Wird synchronisiert…
+Sync now,Jetzt synchronisieren
+ERPNext Integration is enabled,ERPNext-Integration ist aktiviert
+ERPNext Integration is disabled,ERPNext-Integration ist deaktiviert
+Sync started,Synchronisierung gestartet
+ERPNext is not installed on your site. Please install ERPNext to enable this setting,"ERPNext ist auf Ihrer Site nicht installiert. Bitte installieren Sie ERPNext, um diese Einstellung zu aktivieren"
+Sync completed successfully,Synchronisierung erfolgreich abgeschlossen
+Sync Customers with ERPNext,Kunden mit ERPNext synchronisieren
+Set Phone Number,Telefonnummer festlegen
+"{0} does not have a phone number, set one to call them.","{0} hat keine Telefonnummer. Legen Sie eine fest, um anzurufen."
+Invalid phone number,Ungültige Telefonnummer
+Contact updated successfully.,Kontakt erfolgreich aktualisiert.
+Export,Export
+Export Type,Exporttyp
+Excel,Excel
+CSV,CSV
+Export All {0} Record(s),Alle {0} Datensätze exportieren
+Download,Herunterladen
+Make a Call,Einen Anruf tätigen
+Log a Call,Anruf protokollieren
+emails/ comments,E-Mails/ Kommentare
+from this email onwards will be moved to new ticket.,ab dieser E-Mail werden in ein neues Ticket verschoben.
+This action is irreversible.,Diese Aktion ist unwiderruflich.
+Subject is required,Betreff ist erforderlich
+Communication ID is required,Kommunikations-ID ist erforderlich
+Ticket split successfully.,Ticket erfolgreich aufgeteilt.
+All comments and emails from both tickets will be merged into the selected ticket,Alle Kommentare und E-Mails aus beiden Tickets werden in das ausgewählte Ticket zusammengeführt
+Tickets must meet the following conditions:,Tickets müssen die folgenden Bedingungen erfüllen:
+Ticket Subject,Ticket-Betreff
+Category is required,Kategorie ist erforderlich
+Ticket to merged with is required,"Das Ticket, mit dem zusammengeführt werden soll, ist erforderlich"
+Ticket merged successfully.,Ticket erfolgreich zusammengeführt.
+"This date is calculated based on configured SLAs, working hours, and holidays.","Dieses Datum wird auf Basis der konfigurierten SLAs, Arbeitszeiten und Feiertage berechnet."
+01/01/2022 to 01/31/2022,01.01.2022 bis 31.01.2022
+"100, 200, 300","100, 200, 300"
+"John, Jane, Doe","John, Jane, Doe"
+%100%,%100%
+%John%,%John%
+Set,Festlegen
+Last Week,Letzte Woche
+1000,1000
+01/01/2022,01.01.2022
+Yes,Ja
+Select a Value,Wert auswählen
+Select an Option,Option auswählen
+John Doe,John Doe
+You can change the default calling medium from the settings,Sie können das Standard-Anrufmedium in den Einstellungen ändern
+Mark all as read,Alle als gelesen markieren
+mentioned you in ticket,hat Sie in einem Ticket erwähnt
+assigned you a ticket,hat Ihnen ein Ticket zugewiesen
+has reopened the ticket,hat das Ticket erneut geöffnet
+No new notifications,Keine neuen Benachrichtigungen
+"Search tickets, comments, and communications...","Tickets, Kommentare und Kommunikation suchen…"
+Status,Status
+Type,Typ
+Clear all filters,Alle Filter zurücksetzen
+Search index does not exist. Please build the index first.,Suchindex existiert nicht. Bitte erstellen Sie zuerst den Index.
+Press enter to search,"Drücken Sie die Eingabetaste, um zu suchen"
+Searching...,Wird gesucht…
+{0} matches,{0} Treffer
+({0}s),({0}s)
+{0} filter(s) applied,{0} Filter angewendet
+Searched for:,Gesucht nach:
+Comments,Kommentare
+Page not found,Seite nicht gefunden
+"You don't have permission to view this page, or it no longer exists.","Sie haben keine Berechtigung, diese Seite anzuzeigen, oder sie existiert nicht mehr."
+Back to Tickets,Zurück zu den Tickets
+in,in
+Select Category,Kategorie auswählen
+Write your article here...,Schreiben Sie hier Ihren Artikel...
+Article created successfully.,Artikel erfolgreich erstellt.
+Discard Article,Artikel verwerfen
+Are you sure you want to discard this article?,Möchten Sie diesen Artikel wirklich verwerfen?
+Confirm,Bestätigen
+New Article,Neuer Artikel
+Category,Kategorie
+Article,Artikel
+Add New Article,Neuen Artikel hinzufügen
+Edit Title,Titel bearbeiten
+Merge,zusammenfassen
+Share,Teilen
+Category '{0}' link copied to clipboard,Link der Kategorie „{0}“ in die Zwischenablage kopiert
+Move To,Verschieben nach
+Delete articles,Artikel löschen
+Are you sure you want to delete these articles?,Möchten Sie diese Artikel wirklich löschen?
+Articles moved successfully.,Artikel erfolgreich verschoben.
+Category created successfully.,Kategorie erfolgreich erstellt.
+Failed to create category,Kategorie konnte nicht erstellt werden
+Category updated successfully.,Kategorie erfolgreich aktualisiert.
+Failed to update category.,Kategorie konnte nicht aktualisiert werden.
+Delete category?,Kategorie löschen?
+All articles from this category will move to General category.,Alle Artikel aus dieser Kategorie werden in die Kategorie Allgemein verschoben.
+Category deleted successfully.,Kategorie erfolgreich gelöscht.
+Articles deleted successfully.,Artikel erfolgreich gelöscht.
+Category merged successfully.,Kategorie erfolgreich zusammengeführt.
+No articles found for the applied filters. Try adjusting or clearing your filters.,"Keine Artikel für die angewendeten Filter gefunden. Versuchen Sie, Ihre Filter anzupassen oder zurückzusetzen."
+No articles found in the following category.,Keine Artikel in der folgenden Kategorie gefunden.
+Published,Veröffentlicht
+Draft,Entwurf
+Archived,Archiviert
+Publish,Veröffentlichen
+Unpublish,Veröffentlichung aufheben
+Discard changes?,Änderungen verwerfen?
+Are you sure you want to discard changes?,Möchten Sie die Änderungen wirklich verwerfen?
+Article has been successfully moved.,Der Artikel wurde erfolgreich verschoben.
+Article title cannot be set as empty,Der Artikeltitel darf nicht leer sein
+Article body cannot be set as empty.,Der Artikeltext darf nicht leer sein.
+Article updated successfully.,Artikel erfolgreich aktualisiert.
+Article deleted successfully.,Artikel erfolgreich gelöscht.
+Edit,Bearbeiten
+Add Category,Kategorie hinzufügen
+Article link copied to clipboard,Artikel-Link in die Zwischenablage kopiert
+Untitled,Ohne Titel
+Select,Auswählen
+Duration,Dauer
+Call duration in seconds,Anrufdauer in Sekunden
+Call Received By,Anruf empfangen von
+Caller,Anrufer
+Incoming,Eingehend
+Outgoing,Ausgang
+Completed,Abgeschlossen
+Busy,Beschäftigt
+Failed,Fehlgeschlagen
+Initiated,Initiiert
+Queued,Warteschlange
+Canceled,Abgebrochen
+Ringing,Klingeln
+No Answer,Keine Antwort
+In Progress,In Bearbeitung
+New Call Log,Neues Anrufprotokoll
+Edit Call Log,Anrufprotokoll bearbeiten
+Type is required,Typ ist erforderlich
+To is required,An ist erforderlich
+Please enter a valid phone number,Bitte geben Sie eine gültige Telefonnummer ein
+From is required,Von ist erforderlich
+Status is required,Status ist erforderlich
+Duration is required,Dauer ist erforderlich
+Call Details,Anrufdetails
+No customers found for the applied filters. Try adjusting or clearing your filters.,"Keine Kunden für die angewendeten Filter gefunden. Versuchen Sie, Ihre Filter anzupassen oder zurückzusetzen."
+Change photo,Foto ändern
+Upload photo,Foto hochladen
+Remove photo,Foto entfernen
+Customer updated successfully.,Kunde erfolgreich aktualisiert.
+Error updating customer,Fehler beim Aktualisieren des Kunden
+Invite as user,Als Benutzer einladen
+Phone Nos,Telefonnummern
+Link to a customer,Mit einem Kunden verknüpfen
+At least one email is required,Mindestens eine E-Mail ist erforderlich
+No changes to save,Keine Änderungen zum Speichern
+Invalid email,Ungültige E-Mail
+"Invalid file type, only PNG and JPG images are allowed","Ungültiger Dateityp, nur PNG- und JPG-Bilder sind erlaubt"
+Contact invited successfully.,Kontakt erfolgreich eingeladen.
+No contacts found for the applied filters. Try adjusting or clearing your filters.,"Keine Kontakte für die angewendeten Filter gefunden. Versuchen Sie, Ihre Filter anzupassen oder zurückzusetzen."
+SLA,SLA
+Details,Details
+New Subject,Neuer Betreff
+Activity,Aktivität
+Calls,Anrufe
+viewed this,hat dies angesehen
+No tickets found,Keine Tickets gefunden
+No tickets found for this view. Try adjusting your filters or creating a new view.,"Keine Tickets für diese Ansicht gefunden. Versuchen Sie, Ihre Filter anzupassen oder eine neue Ansicht zu erstellen."
+No tickets found for the applied filters. Try adjusting or clearing your filters.,"Keine Tickets für die angewendeten Filter gefunden. Versuchen Sie, Ihre Filter anzupassen oder zurückzusetzen."
+Fulfilled,Erfüllt
+Paused,Pausiert
+Default Views,Standard-Ansichten
+List View,Listenansicht
+Saved Views,Gespeicherte Ansichten
+Create View,Ansicht erstellen
+Unpin View,Ansicht lösen
+Pin View,Ansicht anheften
+Hide from sidebar,Aus Seitenleiste ausblenden
+Show in sidebar,In Seitenleiste anzeigen
+Hide view from sidebar,Ansicht aus Seitenleiste ausblenden
+{0} view is currently visible in the sidebar. Hiding it will remove it from the sidebar.,"Die Ansicht {0} ist derzeit in der Seitenleiste sichtbar. Wenn Sie sie ausblenden, wird sie aus der Seitenleiste entfernt."
+Make view private,Ansicht privat machen
+{0} view is currently public. Changing it to private will hide it for all the users.,"Die Ansicht {0} ist derzeit öffentlich. Wenn Sie sie auf privat ändern, wird sie für alle Benutzer ausgeblendet."
+Delete View,Ansicht löschen
+Delete {0}?,{0} löschen?
+Are you sure you want to delete this view?,Möchten Sie diese Ansicht wirklich löschen?
+"This view is public, and will be removed for all users.",Diese Ansicht ist öffentlich und wird für alle Benutzer entfernt.
+deleted,gelöscht
+created,erstellt
+View {0},{0} anzeigen
+Ticket not found,Ticket nicht gefunden
+"You don't have access to this ticket, or it no longer exists.","Sie haben keinen Zugriff auf dieses Ticket, oder es existiert nicht mehr."
+Rate this ticket,Dieses Ticket bewerten
+Submit,Buchen
+Select a rating,Bewertung auswählen
+Pick an option,Eine Option auswählen
+Other,Andere
+Tell us more,Erzählen Sie uns mehr
+Subject,Betreff
+A short description,Eine kurze Beschreibung
+Please enter a subject to continue,"Bitte geben Sie einen Betreff ein, um fortzufahren"
+Detailed explanation,Detaillierte Erklärung
+New Ticket,Neues Ticket
+Type a message,Nachricht eingeben
+Send,Absenden
+Ticket not found.,Ticket nicht gefunden.
+Ticket updated succesfully.,Ticket erfolgreich aktualisiert.
+Close Ticket,Ticket schließen
+Are you sure you want to close this ticket?,Möchten Sie dieses Ticket wirklich schließen?
+Ticket closed successfully.,Ticket erfolgreich geschlossen.
+Select Range,Bereich auswählen
+Period,Periode
+Agent Dashboard,Agent-Dashboard
+My Dashboard,Mein Dashboard
+Organization Dashboard,Organisations-Dashboard
+Last 30 Days,Letzte 30 Tage
+Presets,Voreinstellungen
+Today,Heute
+Last 7 Days,Letzte 7 Tage
+Last 60 Days,Letzte 60 Tage
+Last 90 Days,Letzte 90 Tage
+Custom Range,Benutzerdefinierter Bereich
+Refresh,Aktualisieren
+Hey,Hallo
+No charts added,Keine Diagramme hinzugefügt
+Add charts to get started,"Fügen Sie Diagramme hinzu, um zu beginnen"
+Dashboard saved,Dashboard gespeichert
+My Tickets,Meine Tickets
+Average Time Metrics,Durchschnittliche Zeitkennzahlen
+Average First Response Time,Durchschnittliche erste Antwortzeit
+Average Resolution Time,Durchschnittliche Lösungszeit
+Reviews,Bewertungen
+Pending Tickets,Ausstehende Tickets
+ID,ID
+Reason,Grund
+Not Assigned,Nicht zugewiesen
+No reason,Kein Grund
+See all {0} tickets,Alle {0} Tickets anzeigen
+Showing {0} of {1} {2},{0} von {1} {2} werden angezeigt
+tickets,Tickets
+ticket,Ticket
+Pending,Ausstehend
+Recent,Kürzlich
+SLA Alerts,SLA-Benachrichtigungen
+Recent Tickets,Aktuelle Tickets
+Tickets approaching or breached SLA,"Tickets, die das SLA bald erreichen oder überschritten haben"
+Tickets assigned to you in the last 7 days,"Tickets, die Ihnen in den letzten 7 Tagen zugewiesen wurden"
+Tickets that are awaiting your response,"Tickets, die auf Ihre Antwort warten"
+All SLAs on track,Alle SLAs im Plan
+Great! All your tickets are within SLA,Großartig! Alle Ihre Tickets sind innerhalb des SLA
+No recently assigned tickets,Keine kürzlich zugewiesenen Tickets
+No new tickets assigned to you in the last 7 days,Ihnen wurden in den letzten 7 Tagen keine neuen Tickets zugewiesen
+No pending tickets,Keine ausstehenden Tickets
+All your assigned tickets have been responded to,Auf alle Ihnen zugewiesenen Tickets wurde geantwortet
+Average First Response,Durchschnittliche erste Antwort
+Average Resolution,Durchschnittliche Lösung
+{0} reviews,{0} Bewertungen
+Your performance is,Ihre Leistung ist
+Select range,Bereich auswählen
+Feedback,Rückmeldung
+No additional comments,Keine zusätzlichen Kommentare
+No feedback,Kein Feedback
+You haven't received any feedback yet,Sie haben noch kein Feedback erhalten
+All Time,Gesamter Zeitraum
+Last Month,Letzter Monat
+Last 3 Months,Letzte 3 Monate
+Positive first,Positive zuerst
+Negative first,Negative zuerst
+excellent,ausgezeichnet
+good,gut
+average,durchschnittlich
+poor,schlecht
+Last month,Letzter Monat
+Last week,Letzte Woche
+Last 3 months,Letzte 3 Monate
+No average metrics,Keine Durchschnittswerte
+Average response and resolution metrics not available,Durchschnittliche Antwort- und Lösungskennzahlen nicht verfügbar
+Avg. first response time,Durchschn. erste Antwortzeit
+Avg. resolution time,Durchschn. Lösungszeit
+3 Months,3 Monate
+6 Months,6 Monate
+1 Year,1 Jahr
+SLA policy name is required.,SLA-Richtlinienname ist erforderlich.
+At least one priority is required.,Mindestens eine Priorität ist erforderlich.
