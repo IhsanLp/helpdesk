@@ -537,16 +537,25 @@ def get_ticket_channel_chart_data(
     """
     Get ticket channel chart data for the dashboard.
     """
-    result = frappe.get_all(
+    rows = frappe.get_all(
         HD_TICKET,
-        fields=["via_customer_portal as channel ", COUNT_NAME],
+        fields=["via_customer_portal", "custom_vorpuls_channel", COUNT_NAME],
         filters=filters,
-        group_by="via_customer_portal",
-        order_by="via_customer_portal desc",
+        group_by="via_customer_portal, custom_vorpuls_channel",
     )
 
-    for row in result:
-        row.channel = "Portal" if row.channel == 1 else "Email"
+    # Drei Kanäle: Teams (custom_vorpuls_channel), sonst Portal/Email (nativ).
+    agg: dict[str, int] = {}
+    for row in rows:
+        if row.get("custom_vorpuls_channel") == "teams":
+            channel = "Teams"
+        elif row.via_customer_portal == 1:
+            channel = "Portal"
+        else:
+            channel = "Email"
+        agg[channel] = agg.get(channel, 0) + (row.get("count") or 0)
+
+    result = [{"channel": k, "count": v} for k, v in agg.items()]
 
     return get_pie_chart_config(
         result,

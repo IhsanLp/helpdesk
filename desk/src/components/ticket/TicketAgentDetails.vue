@@ -160,7 +160,12 @@ const sections = computed(() => [
   },
   {
     label: "Source",
-    value: props.ticket.via_customer_portal ? "Portal" : "Mail",
+    value:
+      props.ticket.custom_vorpuls_channel === "teams"
+        ? "Teams"
+        : props.ticket.via_customer_portal
+        ? "Portal"
+        : "Mail",
   },
 ]);
 

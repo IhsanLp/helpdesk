@@ -17,9 +17,17 @@
         >
           #{{ ticket.doc.name }}
         </p>
+        <!-- Via Teams -->
+        <div
+          v-if="ticket.doc.custom_vorpuls_channel === 'teams'"
+          class="text-ink-gray-5 flex items-center"
+        >
+          <span class="mr-[4px]">via</span>
+          <span>Teams</span>
+        </div>
         <!-- Via Email -->
         <div
-          v-if="!ticket.doc.via_customer_portal"
+          v-else-if="!ticket.doc.via_customer_portal"
           class="text-ink-gray-5 flex items-center"
         >
           <span class="mr-[4px]">via</span>
