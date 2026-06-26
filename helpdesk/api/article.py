@@ -70,23 +70,27 @@ def get_article_stats(article_name: str):
 
 @frappe.whitelist()
 def search(query: str) -> list:
-    query = sanitize_query(query)
-    ret, enough = search_with_enough_results([], query)
-    if enough:
+    # ponytail: RediSearch module not installed -> degrade to no suggestions
+    try:
+        query = sanitize_query(query)
+        ret, enough = search_with_enough_results([], query)
+        if enough:
+            return ret
+        blob = TextBlob(query)  # fallback
+        if noun_phrases := get_noun_phrases(blob):
+            query = " ".join(noun_phrases)
+            ret, enough = search_with_enough_results(ret, query)
+            if enough:
+                return ret
+            ret, enough = search_with_enough_results(ret, query, qtype="or")
+            if enough:
+                return ret
+        if nouns := get_nouns(blob):
+            query = " ".join(nouns)
+            ret, enough = search_with_enough_results(ret, query)
+            if enough:
+                return ret
+            ret, enough = search_with_enough_results(ret, query, qtype="or")
         return ret
-    blob = TextBlob(query)  # fallback
-    if noun_phrases := get_noun_phrases(blob):
-        query = " ".join(noun_phrases)
-        ret, enough = search_with_enough_results(ret, query)
-        if enough:
-            return ret
-        ret, enough = search_with_enough_results(ret, query, qtype="or")
-        if enough:
-            return ret
-    if nouns := get_nouns(blob):
-        query = " ".join(nouns)
-        ret, enough = search_with_enough_results(ret, query)
-        if enough:
-            return ret
-        ret, enough = search_with_enough_results(ret, query, qtype="or")
-    return ret
+    except Exception:
+        return []

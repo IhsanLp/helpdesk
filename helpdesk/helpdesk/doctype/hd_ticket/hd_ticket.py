@@ -164,7 +164,7 @@ class HDTicket(Document):
             )
             frappe.msgprint(_("Feedback email has been sent to the customer"))
         except Exception as e:
-            frappe.throw(_("Could not send feedback email,due to: {0}").format(e))
+            frappe.log_error(title="helpdesk: outgoing email skipped", message=str(e))
 
     def after_insert(self):
 
@@ -642,9 +642,12 @@ class HDTicket(Document):
             return
 
         if not sender_email:
-            frappe.throw(
-                _("Unable to send email. Please setup default outgoing email account.")
+            # ponytail: bridge handles delivery; no Frappe outgoing account configured
+            frappe.log_error(
+                title="helpdesk: outgoing email skipped",
+                message="Unable to send email. No default outgoing email account.",
             )
+            return
 
         message = self.parse_content(message)
 
@@ -694,7 +697,7 @@ class HDTicket(Document):
                 ),
             )
         except Exception as e:
-            frappe.throw(_(e))
+            frappe.log_error(title="helpdesk: outgoing email skipped", message=str(e))
 
     @frappe.whitelist()
     # flake8: noqa
@@ -797,7 +800,7 @@ class HDTicket(Document):
                 now=True,
             )
         except Exception as e:
-            frappe.throw(_(e))
+            frappe.log_error(title="helpdesk: outgoing email skipped", message=str(e))
 
     def send_acknowledgement_email(self):
         acknowledgement_email_content = frappe.db.get_single_value(
@@ -822,9 +825,7 @@ class HDTicket(Document):
                 email_headers={"X-Auto-Generated": "hd-acknowledgement"},
             )
         except Exception as e:
-            frappe.throw(
-                _("Could not send an acknowledgement email due to: {0}").format(e)
-            )
+            frappe.log_error(title="helpdesk: outgoing email skipped", message=str(e))
 
     @frappe.whitelist()
     def mark_seen(self):

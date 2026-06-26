@@ -70,11 +70,6 @@
             maxlength="140"
           />
         </div>
-        <SearchArticles
-          v-if="isCustomerPortal"
-          :query="subject"
-          class="shadow"
-        />
         <div v-if="isCustomerPortal">
           <h4
             v-show="subject.length <= 2 && description.length === 0"
@@ -159,7 +154,6 @@ import { useOnboarding } from "frappe-ui/frappe";
 import sanitizeHtml from "sanitize-html";
 import { computed, defineAsyncComponent, onMounted, reactive, ref } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import SearchArticles from "../../components/SearchArticles.vue";
 const TicketTextEditor = defineAsyncComponent(
   () => import("./TicketTextEditor.vue")
 );

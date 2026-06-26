@@ -339,7 +339,13 @@ def search(query, qtype: Literal["and", "or"] = "and") -> list[dict[str, list[di
             query += f"{sep}{part}*"
 
     query = query.lstrip(sep)  # Remove leading separator (| at beginning is invalid)
-    result = search.search(query, start=0, highlight=True)
+    # ponytail: RediSearch module not installed -> degrade to no suggestions
+    try:
+        result = search.search(query, start=0, highlight=True)
+    except ResponseError:
+        return []
+    except Exception:
+        return []
     groups = {}
     for r in result.docs:
         doctype, name = r.id.split(":")
